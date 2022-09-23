@@ -1,0 +1,1 @@
+This is a project to connect php to mysl using pdo library
